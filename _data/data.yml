@@ -1,0 +1,239 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+  about:  True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education:  True # set to False if you want education in main section instead of in sidebar
+
+  # Profile information
+  name: 张西超
+  tagline: Android App 开发工程师
+  avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+  # Sidebar links
+  weixin: qdzxcbp
+  phone: 13032956307
+  email: zhangxichao100@gmail.com
+  # linkedin: alandoe
+  github: Seachal # do not add http://github.com  e.g. Seahcal
+  gitlab:
+  bitbucket:
+  # twitter: '@s'
+  website: seachal.github.io  #do not add http://
+  stack-overflow: 6533312/seachal # Number/Username, e.g. 123456/alandoegi
+#  codewars: Seachal
+  # goodreads: # Number-Username, e.g. 123456-alandoe
+
+
+
+
+
+career-profile:
+  title: 概况
+  summary: |
+    - 6年工作经验：有过1年Java后端开发经验，目前5年Android App 开发经验。
+    - 了解 JavaWeb、Html、CSS、JavaScript，这份《简历》就是用前端代码生成。
+    - 了解 React-Native、Jetpack Compose。
+    - 了解 JNI、NDK，使用过NDK加密保护App的私密Key信息。
+    - 掌握 Dart、Flutter、Kotlin、Jetpack:Lifecycles、LiveData、ViewModel、Navigation、WorkManager。
+    - 熟悉 Java 面向对象的设计思想，常用设计模式与设计原则。
+    - 熟悉 ⽀付、地图、推送、埋点、分享、统计、IM 等第三⽅开放 SDK，并具备对其⼆次封装的能⼒。
+    - 熟悉 Android UI开发、网络通讯、多线程开发等。理解事件分发机制、View绘制流程、Handler机制原理、屏幕适配技术。熟练使用RxJava，Retrofit、Glide、Okhttp等第三方开源类库。
+    - 熟悉 Android 性能优化，并对启动优化、稳定性优化、布局优化、瘦身优化有过相关的实践。
+    - 熟悉 Android 模块化、组件化、插件化，熟悉 MVC、MVP、MVVM。
+    - 有较强的产品意识，善于从产品以及用户需求的角度进行相对应的学习与开发，协助产品经理分析解决业务需求，服务于用户。
+    
+
+education:
+  - degree: 统招本科/网络工程学士
+    university: 聊城大学（计算机科学与技术学院）
+    time: 2012.9 - 2016.6
+    details: |
+      # Describe
+
+
+
+experiences:
+  - role: 新奥集团·(一城一家网络科技有限公司、新奥泛能网络科技有限公司)
+    time: 2020.09 - 至今
+    company: Android 高级开发工程师 
+    details: |
+      - 主要负责 e城e家（应用市场累计下载量9000万+）开发工作。
+      - 参与 e城商户通、e城e家师傅端-AI隐患识别 等开发工作。
+      - 质量模块：追踪并解决 APP 遇到的难以解决的疑难 Bug。
+      - 性能稳定性优化：主要针对了 内存、卡顿、网络、启动速度、布局加载、包体积 进行了多维的优化。
+      - 获得《e城e家产品体验官》奖章
+
+
+  - role: 北京原子恋科技有限公司
+    time: 2019.07 - 2020.09
+    company: Android 高级开发工程师
+    details: |
+      - 负责 Atoshi 社交电商App、好物聚电商App的开发工作，
+      - 参与乐唰短视频平台App开发。
+      - 负责商城模块：商城首页、分类、搜索、购物车、订单、店铺。
+      - 负责支付模块：支付宝支付、微信支付、微信H5支付。
+      - 负责社交电商导购模块： 京东导购、淘宝导购、拼多多导购。
+      - 负责安全模块：App私密key保护、Api接口签名验证、时间校准。
+
+  - role: 北京中烟信息技术有限公司
+    time: 2016.07 - 2019.07
+    company: Android 中级开发工程师
+    details: |
+      - 主导 Android App 开发过程，根据项目概要设计和原型，编写 App 详细开发文档。
+      - 与UI设计师沟通原型和切图，与IOS、后台Api开发人员沟通进度，向技术经理汇报项目进度，参与部分管理。
+      - 参与部分IOS功能的开发。
+      - 工作积极主动，获得《2018年度优秀员工》。
+
+
+
+
+
+experiences-projects:
+  #      title:项目经验
+  - role: e城e家 App  （应用市场累计下载量9000万+）
+    time:  2020.09 - 至今
+    company: 新奥集团·(一城一家网络科技有限公司、新奥泛能网络科技有限公司)
+    details: |
+      e城e家是一站式品质生活服务平台，聚集了家庭生活所需要的水电气暖、家居、家电的维修安装、清洁保养、家政保姆等服务项目和以厨房卫浴为主的商品直销，覆盖全国主要城市小区，运用大数据和AI技术构建家庭服务生态圈。
+
+        - 职责
+          - 项目负责人，主力开发，主要负责首页模块、商城模块、缴费模块，优化开发框架提升开发效率。
+        - 相关技术
+          - 开发语言 Java、Kotlin
+          - 蓝牙通信、NFC通信
+          - RxJava2 + Retrofit2 + OkHttp3 + EventBus + Glide。
+          - WebView封装、微信支付、微信H5支付。
+          - Constraintlayout Coordinatorlayout、Behavior 等Material Design等 Google 新框控件。
+          - 针对了 内存、卡顿、网络、启动速度、布局加载、包体积 进行了多维的优化。
+
+  - role: e城e家师傅端-AI隐患识别
+    time: 2021.04 - 2021.04
+    company: 新奥集团·一城一家网络科技有限公司
+    details: |
+      e城e家师傅端-AI隐患识别，主要用于帮助燃气师傅在上门安检时，通过 AI 技术快速发现家庭燃气安全隐患，解决安全隐患，为家庭燃气安全保驾护航。
+        - 职责
+          - 项目负责人，与集团 AI 研究院合作，主导Android 端App开发，隐患识别能力由集团 AI 研究院提供，圆满完成任务。
+        - 相关技术
+          - alibaba/MNN轻量级高性能推理引擎。
+          - 通过 NDK在 Android中 使用 JNI与本地代码（如C、C++）交互。
+          - CMake 构建脚本, 生成 so 库。
+
+  - role: Atoshi 社交电商App
+    time:  2019.07 - 2020.09
+    company: 北京原子恋科技有限公司
+    details: |
+      一款社交电商App，主要功能有自营电商、IM聊天、导购返佣、广告游戏推广。
+
+        - 职责
+          - 前期负责主要功能模块开发：主要负责商城模块、支付模块、导购返利模块等功能开发；
+          - 后期项目负责人：负责Android端小伙伴招聘，负责优化框架提升开发效率。
+      
+        - 相关技术
+          - 屏幕适配方案选型，解决团队屏幕适配问题
+          - RxJava2 + Retrofit2 + OkHttp3 + EventBus + Glide + MVP
+          - 从 Java 转向 Kotlin开发，使用Jetpack:LifeCycle、Navigation、LiveData、ViewModel
+          - OkHttp拦截器接口签名验证
+          - 微信支付、微信H5支付、支付宝支付
+          - 腾讯 IM SDK聊天,基于SDK开发客服功能
+          - 集成阿里百川、京东、拼多多等电商组件、WebView中适配携程、嘀嗒出行等一些主流平台的商品解析、跳转等。
+          - 使用 Leakcanary 检查内存泄漏，解决内存泄漏问题。
+          - 布局优化、绘制优化、内存优化
+
+
+
+
+  - role: 未来终端 App
+    time:  2019.01 - 2019.06  
+    company: 北京中烟信息技术有限公司
+    details: |
+      一款面向香烟零售户 App，主要功能有:用户管理、积分商城、积分抽奖、奖品发放、快递跟踪。
+
+        - 职责
+          - 独自开发，负责项目基础框架搭建、App基础业务设计、App详细设计、所有功能模块开发、主导移动端开发过程。
+        - 相关技术
+          - 使用 RxJava2 实现 JWT 身份认证失效后，网络请求重试机制
+          - MVP 架构，Model与View之间的交互由Presenter完成
+          - 使用 RxBinding 优雅实现表单验证、搜索请求
+          - 使用 Leakcanary 检查内存泄漏，解决内存泄漏问题
+
+
+
+  - role: Deep精准营销 App
+    time: 2017.12 - 2018.12  
+    company: 北京中烟信息技术有限公司
+    details: |
+      一款烟草行业内部精准营销平台 App，主要功能有：智能识烟，扫码识烟，烟草工业、商业公司报表展示，预警管理，零售户位置管理。
+
+       - 职责
+         - 独立开发，负责项目基础框架搭建、App详细设计、所有功能模块开发、主导移动端开发过程。
+         - 参与IOS项目中的部分功能开发
+         
+       - 相关技术
+         - 处理嵌套事件分发冲突，熟悉Android 事件分发冲突解决方案
+         - RxJava2 + Retrofit2 + OkHttp3 做网络请求和请求结果处理，熟悉 TCP、HTTP等常用网络协议
+         - 使用 Rxjava2 的操作符对事件流进行进行转换、组合、过滤等操作。
+         - 使用 Glide 实现图片的加载和缓存，了解Android缓存策略
+         - 使用 CameraView、uCrop 自定义相机、拍照、相册、图片裁剪压缩上传等功能
+         - 基于 MPAndroidChart 定制各种图表
+         - 自定义双栏联动 DoubleRecyclerView、自定义日历、自定义flexbox-layout等
+         - 使用RecyclerView实现下拉刷新、上拉加载、侧滑删除、下拉菜单
+
+
+  - role: 终端拜访  App
+    time: 2017.7 - 2017.11
+    company:  北京中烟信息技术有限公司
+    details: |
+      一款面向烟草终端专员 App，主要功能有：针对专员考勤，专员拜访零售户管理，专员采集零售户信息，专员对零售户评分。
+
+        - 职责
+          - 多人协作，阶段性的维护升级，新模块的开发，后台Api开发。
+        - 相关技术
+          - 解决一些兼容性问题
+          - 零售户评分、附近零售户等新功能开发
+          - 零售户地图位置纠正(基于百度地图Android SDK)
+
+  - role: 烟草物流系统开发
+    time: 2016.7 - 2017.6
+    company: 北京中烟信息技术有限公司
+    details: |
+      该项目实现了烟厂从原料库、储叶库、储丝库、辅料库、成品库、备件库等各库区各卷烟生产环节的智慧物流，赋能产线精细化加工，有效实现烟草均质配方、顺序投料、柔性生产
+        - 职责
+          - 多人协作，用户登录，注册，密码修改，以及自动登录功能
+        - 相关技术
+          - 基于 Struts +  Spring + Hibernate 框架开发业务模块。
+          - mysql数据库增删改查。
+
+
+
+skills:
+  title: 技能
+
+  toolset:
+    - name: Java & Android
+      level: 80%
+
+    - name: Kotlin
+      level: 65%
+
+    - name: Dart & Flutter
+      level: 45%
+      
+    - name: SQL
+      level: 40%
+
+    - name: C & C++
+      level: 35%
+      
+    - name: Java Web & Html & CSS & JavaScript
+      level: 30%
+
+    - name: IOS & Objective-C & Swift 
+      level: 10%
+
+
+# 这句话可以暂时不加 感谢您花时间阅读我的简历，期待能有机会和您共事
+
+#footer: >
+#  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
