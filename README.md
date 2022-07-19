@@ -7,3 +7,9 @@ https://seachal.github.io/online-cv-ui-me/
 
 ------
 _config.yml  配置文件
+
+
+使用  chrome  FireShot 网页截图插件生成 pdf,
+这个工具很好用，
+
+![img.png](img.png) save as pdf 已经不好用了，可选项很少，而且还会有页头页脚，需要自己裁剪

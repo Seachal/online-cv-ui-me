@@ -59,10 +59,12 @@ experiences:
     time: 2020.09 - 至今
     company: Android 高级开发工程师 
     details: |
-      - 主要负责 e城e家（应用市场累计下载量9000万+）开发工作。
-      - 参与 e城商户通、e城e家师傅端-AI隐患识别 等开发工作。
-      - 质量模块：追踪并解决 APP 遇到的难以解决的疑难 Bug。
-      - 性能稳定性优化：主要针对了 内存、卡顿、网络、启动速度、布局加载、包体积 进行了多维的优化。
+      - 主要负责 e城e家-家庭生活服务App（应用市场累计下载量9000万+）开发工作。
+      - 参与 e城商户通App、e城e家师傅端App-AI隐患识别 等开发工作。
+      - 参与 微信小程序-e家e家营业厅小程序 开发。
+      - 把 Kotlin 引入到项目，Flutter引入到e城e家项目中实现混合开发。
+      - 质量模块：隐私合规治理，追踪并解决 APP 遇到的难以解决的疑难 Bug。
+      - 性能稳定性优化：主要针对了 内存、卡顿、启动速度、布局加载、包体积 进行了多维的优化。
       - 获得《e城e家产品体验官》奖章
 
 
@@ -70,8 +72,7 @@ experiences:
     time: 2019.07 - 2020.09
     company: Android 高级开发工程师
     details: |
-      - 负责 Atoshi 社交电商App、好物聚电商App的开发工作，
-      - 参与乐唰短视频平台App开发。
+      - 负责 Atoshi-社交电商App、好物聚-纯电商App 的开发工作、乐唰-短视频平台App 开发，Android端进度把控
       - 负责商城模块：商城首页、分类、搜索、购物车、订单、店铺。
       - 负责支付模块：支付宝支付、微信支付、微信H5支付。
       - 负责社交电商导购模块： 京东导购、淘宝导购、拼多多导购。
@@ -81,7 +82,8 @@ experiences:
     time: 2016.07 - 2019.07
     company: Android 中级开发工程师
     details: |
-      - 主导 Android App 开发过程，根据项目概要设计和原型，编写 App 详细开发文档。
+      - 主导 未来终端-积分商城App、 Deep-烟草精准营销App 开发，移动端进度把控
+      - 根据项目概要设计和原型，编写 App 详细开发文档。
       - 与UI设计师沟通原型和切图，与IOS、后台Api开发人员沟通进度，向技术经理汇报项目进度，参与部分管理。
       - 参与部分IOS功能的开发。
       - 工作积极主动，获得《2018年度优秀员工》。
@@ -92,7 +94,7 @@ experiences:
 
 experiences-projects:
   #      title:项目经验
-  - role: e城e家 App  （应用市场累计下载量9000万+）
+  - role: e城e家-家庭生活服务App (应用市场累计下载量9000万+)
     time:  2020.09 - 至今
     company: 新奥集团·(一城一家网络科技有限公司、新奥泛能网络科技有限公司)
     details: |
@@ -105,7 +107,7 @@ experiences-projects:
           - 蓝牙通信、NFC通信
           - RxJava2 + Retrofit2 + OkHttp3 + EventBus + Glide。
           - WebView封装、微信支付、微信H5支付。
-          - Constraintlayout Coordinatorlayout、Behavior 等Material Design等 Google 新框控件。
+          - 首页改版 Constraintlayout+Coordinatorlayout+Behavior  。
           - 针对了 内存、卡顿、网络、启动速度、布局加载、包体积 进行了多维的优化。
 
   - role: e城e家师傅端-AI隐患识别
@@ -144,7 +146,7 @@ experiences-projects:
 
 
 
-  - role: 未来终端 App
+  - role: 未来终端-积分商城App
     time:  2019.01 - 2019.06  
     company: 北京中烟信息技术有限公司
     details: |
@@ -160,7 +162,7 @@ experiences-projects:
 
 
 
-  - role: Deep精准营销 App
+  - role: Deep-烟草精准营销App
     time: 2017.12 - 2018.12  
     company: 北京中烟信息技术有限公司
     details: |
@@ -200,7 +202,7 @@ experiences-projects:
     details: |
       该项目实现了烟厂从原料库、储叶库、储丝库、辅料库、成品库、备件库等各库区各卷烟生产环节的智慧物流，赋能产线精细化加工，有效实现烟草均质配方、顺序投料、柔性生产
         - 职责
-          - 多人协作，用户登录，注册，密码修改，以及自动登录功能
+          - 多人协作，用户管理、库存记录、审批流程、物流跟踪等功能
         - 相关技术
           - 基于 Struts +  Spring + Hibernate 框架开发业务模块。
           - mysql数据库增删改查。
@@ -226,7 +228,7 @@ skills:
     - name: C & C++
       level: 35%
       
-    - name: Java Web & Html & CSS & JavaScript
+    - name: Html & CSS & JavaScript
       level: 30%
 
     - name: IOS & Objective-C & Swift 
