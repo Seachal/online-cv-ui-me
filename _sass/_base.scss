@@ -105,14 +105,14 @@ p {
     .container-block {
         padding: 30px;
     }
-    .container-block-title {
-        text-transform: uppercase;
-        font-size: 16px;
-        font-weight: 700;
-        margin-top: 0px;
-        margin-bottom: 15px;
-        line-height: 130%
-    }
+    //.container-block-title {
+    //    text-transform: uppercase;
+    //    font-size: 16px;
+    //    font-weight: 700;
+    //    margin-top: 0px;
+    //    margin-bottom: 15px;
+    //    line-height: 130%
+    //}
 
     .container-block-title-margin {
         text-transform: uppercase;
@@ -122,13 +122,13 @@ p {
         margin-bottom: 15px;
     }
 
-    //.container-block-title {
-    //    text-transform: uppercase;
-    //    font-size: 16px;
-    //    font-weight: 700;
-    //    margin-top: 0px;
-    //    margin-bottom: 15px;
-    //}
+    .container-block-title {
+        text-transform: uppercase;
+        font-size: 16px;
+        font-weight: 700;
+        margin-top: 0px;
+        margin-bottom: 15px;
+    }
 
     .container-block-title2 {
         // CSS属性指定如何将元素的文本大写
@@ -156,7 +156,7 @@ p {
         font-size: 14px;
         //  属性指定了字体的粗细程度。 一些字体只提供 normal 和 bold 两种值。
         font-weight: 400;
-        margin-top: 30px;
+        margin-top: 80px;
         margin-bottom: 10px;
     }
 
