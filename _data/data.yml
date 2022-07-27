@@ -34,8 +34,8 @@ career-profile:
   summary: |
     - 6年工作经验：有过1年Java后端开发经验，目前5年Android App 开发经验。
     - 了解 JavaWeb、Html、CSS、JavaScript，这份《简历》就是用前端代码生成。
-    - 了解 React-Native、Jetpack Compose。
-    - 了解 JNI、NDK，使用过NDK加密保护App的私密Key信息。
+    - 了解 Jetpack Compose，了解 JNI、NDK，使用过NDK加密保护App的私密Key信息。
+    - 了解 AOP:AspectJ、ASM，了解 Hook:Xposed，使用他门治理隐私合规问题。
     - 掌握 Dart、Flutter、Kotlin、Jetpack:Lifecycles、LiveData、ViewModel、Navigation、WorkManager。
     - 熟悉 Java 面向对象的设计思想，常用设计模式与设计原则。
     - 熟悉 ⽀付、地图、推送、埋点、分享、统计、IM 等第三⽅开放 SDK，并具备对其⼆次封装的能⼒。
@@ -62,7 +62,7 @@ experiences:
       - 主要负责 e城e家-家庭生活服务App（应用市场累计下载量9000万+）开发工作。
       - 参与 e城商户通App、e城e家师傅端App-AI隐患识别 等开发工作。
       - 参与 微信小程序-e家e家营业厅小程序 开发。
-      - 把 Kotlin 引入到项目，Flutter引入到e城e家项目中实现混合开发。
+      - 把 Kotlin 引入到项目，在e城e家项目中尝试过Flutter混合开发。
       - 质量模块：隐私合规治理，追踪并解决 APP 遇到的难以解决的疑难 Bug。
       - 性能稳定性优化：主要针对了 内存、卡顿、启动速度、布局加载、包体积 进行了多维的优化。
       - 获得《e城e家产品体验官》奖章
