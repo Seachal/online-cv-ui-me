@@ -33,7 +33,7 @@ career-profile:
   title: 概况
   summary: |
     - 6年工作经验：有过1年Java后端开发经验，目前5年Android App 开发经验。
-    - 了解 JavaWeb、Html、CSS、JavaScript，这份《简历》就是用前端代码生成。
+    - 了解 React-Native,Html、CSS、JavaScript，这份《简历》就是用前端代码生成。
     - 了解 Jetpack Compose，了解 JNI、NDK，使用过NDK加密保护App的私密Key信息。
     - 了解 AOP:AspectJ、ASM，了解 Hook:Xposed，使用它们排查解决隐私合规问题。
     - 掌握 Dart、Flutter、Kotlin、Jetpack:Lifecycles、LiveData、ViewModel、Navigation、WorkManager。
@@ -72,7 +72,8 @@ experiences:
     time: 2019.07 - 2020.09
     company: Android 高级开发工程师
     details: |
-      - 负责 Atoshi-社交电商App、好物聚-纯电商App 的开发工作、乐唰-短视频平台App 开发，Android端进度把控
+      - Android端小组长，负责项目的开发、任务分配、人员招聘、Android端进度把控等工作
+      - 负责 Atoshi-社交电商App、好物聚-纯电商App 的开发工作、乐唰-短视频平台App 开发
       - 负责商城模块：商城首页、分类、搜索、购物车、订单、店铺。
       - 负责支付模块：支付宝支付、微信支付、微信H5支付。
       - 负责社交电商导购模块： 京东导购、淘宝导购、拼多多导购。
@@ -85,7 +86,7 @@ experiences:
       - 主导 未来终端-积分商城App、 Deep-烟草精准营销App 开发，移动端进度把控
       - 根据项目概要设计和原型，编写 App 详细开发文档。
       - 与UI设计师沟通原型和切图，与IOS、后台Api开发人员沟通进度，向技术经理汇报项目进度，参与部分管理。
-      - 参与部分IOS功能的开发。
+      - 参与部分IOS功能的开发,了解Objective-C、Swift。
       - 工作积极主动，获得《2018年度优秀员工》。
 
 
