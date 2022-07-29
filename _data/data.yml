@@ -108,7 +108,7 @@ experiences-projects:
           - 蓝牙通信、NFC通信
           - RxJava2 + Retrofit2 + OkHttp3 + EventBus + Glide。
           - WebView封装、微信支付、微信H5支付。
-          - 首页改版 Constraintlayout+Coordinatorlayout+Behavior  。
+          - 首页改版 Constraintlayout+Coordinatorlayout+Behavior。
           - 针对了 内存、卡顿、网络、启动速度、布局加载、包体积 进行了多维的优化。
 
   - role: e城e家师傅端-AI隐患识别
