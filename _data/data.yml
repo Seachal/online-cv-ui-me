@@ -105,9 +105,10 @@ experiences-projects:
           - 项目负责人，主力开发，主要负责首页模块、商城模块、缴费模块，优化开发框架提升开发效率。
         - 相关技术
           - 开发语言 Java、Kotlin
-          - 缴费模块:蓝牙通信、NFC通信
+          - 缴费模块: 蓝牙通信、NFC通信
           - RxJava + Retrofit + OkHttp + EventBus + Glide。
-          - WebView封装、微信支付、微信H5支付。
+          - 支付模块: WebView封装、微信支付、微信H5支付。
+          - 质量模块: 隐私合规治理，追踪并解决 APP 遇到的难以解决的疑难 Bug
           - 首页改版 Constraintlayout+Coordinatorlayout+Behavior。
           - 针对了 内存、卡顿、网络、启动速度、布局加载、包体积 进行了多维的优化。
 
