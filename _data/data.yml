@@ -41,7 +41,7 @@ career-profile:
     - 熟悉 ⽀付、地图、推送、埋点、分享、统计、IM 等第三⽅开放 SDK，并具备对其⼆次封装的能⼒。
     - 熟悉 Android UI开发、网络通讯、多线程开发等。理解事件分发机制、View绘制流程、Handler机制原理、屏幕适配技术。熟练使用RxJava，Retrofit、Glide、Okhttp等第三方开源类库。
     - 熟悉 Android 性能优化，并对启动优化、稳定性优化、布局优化、瘦身优化有过相关的实践。
-    - 熟悉 Android 模块化、组件化、插件化，熟悉 MVC、MVP、MVVM。
+    - 熟悉 Android 模块化、组件化，熟悉 MVC、MVP、MVVM。
     - 有较强的产品意识，善于从产品以及用户需求的角度进行相对应的学习与开发，协助产品经理分析解决业务需求，服务于用户。
     
 
@@ -105,8 +105,8 @@ experiences-projects:
           - 项目负责人，主力开发，主要负责首页模块、商城模块、缴费模块，优化开发框架提升开发效率。
         - 相关技术
           - 开发语言 Java、Kotlin
-          - 蓝牙通信、NFC通信
-          - RxJava2 + Retrofit2 + OkHttp3 + EventBus + Glide。
+          - 缴费模块:蓝牙通信、NFC通信
+          - RxJava + Retrofit + OkHttp + EventBus + Glide。
           - WebView封装、微信支付、微信H5支付。
           - 首页改版 Constraintlayout+Coordinatorlayout+Behavior。
           - 针对了 内存、卡顿、网络、启动速度、布局加载、包体积 进行了多维的优化。
@@ -135,9 +135,8 @@ experiences-projects:
       
         - 相关技术
           - 屏幕适配方案选型，解决团队屏幕适配问题
-          - RxJava2 + Retrofit2 + OkHttp3 + EventBus + Glide + MVP
+          - 前期:RxJava + Retrofit + OkHttp + EventBus + Glide + MVP
           - 从 Java 转向 Kotlin开发，使用Jetpack:LifeCycle、Navigation、LiveData、ViewModel
-          - OkHttp拦截器接口签名验证
           - 微信支付、微信H5支付、支付宝支付
           - 腾讯 IM SDK聊天,基于SDK开发客服功能
           - 集成阿里百川、京东、拼多多等电商组件、WebView中适配携程、嘀嗒出行等一些主流平台的商品解析、跳转等。
@@ -147,19 +146,17 @@ experiences-projects:
 
 
 
-  - role: 未来终端-积分商城App
-    time:  2019.01 - 2019.06  
-    company: 北京中烟信息技术有限公司
+  - role: 乐唰-短视频平台App
+    time:  2020.06 - 2020.09
+    company: 北京原子恋科技有限公司
     details: |
-      一款面向香烟零售户 App，主要功能有:用户管理、积分商城、积分抽奖、奖品发放、快递跟踪。
+      乐唰是一款新形式的短视频平台，其中包含了多种生活服务场景，线上买菜、买药、外卖、充值缴费等、为真正为用户做到乐在其中，唰出精彩！
 
         - 职责
-          - 独自开发，负责项目基础框架搭建、App基础业务设计、App详细设计、所有功能模块开发、主导移动端开发过程。
+          - 主力开发，负责项目基础框架搭建、App基础业务设计、App详细设计、所有功能模块开发、主导移动端开发过程。
         - 相关技术
-          - 使用 RxJava2 实现 JWT 身份认证失效后，网络请求重试机制
-          - MVP 架构，Model与View之间的交互由Presenter完成
-          - 使用 RxBinding 优雅实现表单验证、搜索请求
-          - 使用 Leakcanary 检查内存泄漏，解决内存泄漏问题
+          声网sdk完成直播音视频通信，观众进房拉流播放，IM交互，礼物打赏。
+          字节跳动sdk短视频录制及编辑，短视频拍摄美化，动效滤镜、剪辑美化。
 
 
 
