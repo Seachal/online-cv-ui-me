@@ -36,7 +36,7 @@ career-profile:
     - 了解 React-Native,Html、CSS、JavaScript，这份《简历》就是用前端代码生成。
     - 了解 Jetpack Compose，了解 JNI、NDK，使用过NDK加密保护App的私密Key信息。
     - 了解 AOP:AspectJ、ASM，了解 Hook:Xposed，使用它们排查解决隐私合规问题。
-    - 掌握 跨平台:Dart、Flutter，掌握Kotlin、Jetpack:Lifecycles、LiveData、ViewModel、Navigation、WorkManager。
+    - 掌握 跨平台:Dart、Flutter，掌握Kotlin、Jetpack:Lifecycles、LiveData、ViewModel、Navigation。
     - 熟悉 Java 面向对象的设计思想，常用设计模式与设计原则。
     - 熟悉 ⽀付、地图、推送、埋点、分享、统计、IM 等第三⽅开放 SDK，并具备对其⼆次封装的能⼒。
     - 熟悉 Android UI开发、网络通讯、多线程开发等。理解事件分发机制、View绘制流程、Handler机制原理、屏幕适配技术。熟练使用RxJava，Retrofit、Glide、Okhttp等第三方开源类库。
