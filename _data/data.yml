@@ -107,9 +107,9 @@ experiences-projects:
           - 缴费模块: 蓝牙通信、NFC通信
           - RxJava + Retrofit + OkHttp + EventBus + Glide。
           - 支付模块: WebView封装、微信支付、微信H5支付。
-          - 质量模块: 基于AspectJ、Hook 进行隐私合规治理，追踪并解决 APP 遇到的疑难 Bug
+          - 质量模块: 基于AspectJ、Hook 进行隐私合规治理，追踪并解决 APP ANR问题
           - 首页改版 Constraintlayout+Coordinatorlayout+Behavior。
-          - 针对了 内存泄漏、启动速度、布局加载、包体积 进行优化。
+          - 针对了 内存泄漏、布局加载、包体积 进行优化。
 
   - role: e城e家师傅端-AI隐患识别
     time: 2021.04 - 2021.04
@@ -141,7 +141,7 @@ experiences-projects:
           - 腾讯 IM SDK聊天,基于SDK开发客服功能
           - 集成阿里百川、京东、拼多多等电商组件、WebView中适配携程、嘀嗒出行等一些主流平台的商品解析、跳转等。
           - 使用 Leakcanary 检查内存泄漏，解决内存泄漏问题。
-          - 布局优化、绘制优化、内存优化
+          - 绘制优化、内存优化、启动速度优化:启动时间从 4.5s降低到 1.5s。
 
 
 
