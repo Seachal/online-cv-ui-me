@@ -68,7 +68,7 @@ experiences:
 
 
   - role: 北京原子恋科技有限公司
-    time: 2019.07 - 2020.09
+    time: 2019.09 - 2020.09
     company: Android 高级开发工程师
     details: |
       - 前期负责功能模块开发；后期Android端小组长，负责模块开发、任务分配、人员招聘、Android端进度把控等工作
@@ -124,7 +124,7 @@ experiences-projects:
           - CMake 构建脚本, 生成 so 库。
 
   - role: Atoshi 社交电商App
-    time:  2019.07 - 2020.09
+    time:  2019.09 - 2020.09
     company: 北京原子恋科技有限公司
     details: |
       一款社交电商App，主要功能有自营电商、IM聊天、导购返佣、广告游戏推广。
